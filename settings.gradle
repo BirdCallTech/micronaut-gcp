@@ -2,4 +2,5 @@ rootProject.name = 'gcp'
 
 include 'gcp-common'
 include 'gcp-tracing'
+include 'gcp-runtime-configurator'
 
